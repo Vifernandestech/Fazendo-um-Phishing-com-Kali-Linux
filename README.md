@@ -55,7 +55,7 @@ PARAM: signed_next ...
 USERNAME: email_do_usuario@gmail.com
 PASSWORD: senha_do_usuario
 ```
-
+![Alt text](./Resultado2Corte.PNG "Optional title) 
 ---
 
 ## ⚠️ Aviso de Ética
