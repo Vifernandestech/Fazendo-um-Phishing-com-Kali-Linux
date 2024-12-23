@@ -68,7 +68,6 @@ Este projeto é estritamente educacional e foi desenvolvido para promover o ente
 
 - [Documentação do SETOOLKIT](https://github.com/trustedsec/social-engineer-toolkit)
 - [Kali Linux Official](https://www.kali.org/)
-- [Guia Ético de Cibersegurança](https://www.cisecurity.org/)
 
 ---
 
