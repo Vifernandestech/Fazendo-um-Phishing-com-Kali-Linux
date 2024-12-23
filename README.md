@@ -49,13 +49,13 @@ Este repositório contém o passo a passo para a criação de um ataque de phish
 Após executar os passos acima, as credenciais coletadas serão exibidas no terminal. Exemplo de saída:
 
 ```
-POSSIBLE USERNAME FIELD FOUND: skip_api_login
-PARAM: signed_next ...
+POSSIBLE USERNAME FIELD FOUND:
+POSSIBLE PASSWORD FIELD FOUND:
 ...
 USERNAME: email_do_usuario@gmail.com
 PASSWORD: senha_do_usuario
 ```
-[Clique Aqui](https://github.com/Vifernandestech/Fazendo-um-Phishing-com-Kali-Linux/blob/main/Resultado2Corte.PNG)
+Para acesso ao printscreen do resultado [Clique Aqui](https://github.com/Vifernandestech/Fazendo-um-Phishing-com-Kali-Linux/blob/main/Resultado2Corte.PNG)
 ---
 
 ## ⚠️ Aviso de Ética
